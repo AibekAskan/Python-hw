@@ -52,8 +52,7 @@
    cd Python-hw
 
 3.	Запустите Python-скрипты:
-   python string_operations.py
-   python unit_converters.py
+   python string_operations.py & python unit_converters.py
 
 ---
 
