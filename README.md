@@ -49,11 +49,9 @@
    git clone https://github.com/AibekAskan/Python-hw.git
 
 2.	Перейдите в папку проекта:
-  ```bash
    cd Python-hw
 
 3.	Запустите Python-скрипты:
-  ```bash
    python string_operations.py
    python unit_converters.py
 
